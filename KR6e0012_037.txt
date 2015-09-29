@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:38.145398
+#+DATE: 2015-09-28 22:54:42.442609
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6e0012_T_037-0280a> ¶¶
 #+PROPERTY: JUAN 37
 ¶
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第三十七¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -634,11 +633,7 @@
 文堅固之名。頌意已下即彼勝進經文。文云¶
 已下即今偈意。¶
 
-15十住品
-:PROPERTIES:
-:head: 十住品第十五
-:END:
-
+十住品第十五
 
 疏。又前辨所依佛德下。上即¶
 通明。此下別顯。上是古意。此下今意。如前¶

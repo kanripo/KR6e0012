@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:38.084548
+#+DATE: 2015-09-28 22:54:42.373295
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6e0012_T_035-0265a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 35
 ¶
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第三十五¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -106,11 +105,7 @@
 無滅等。是故藏護諸根則不犯塵境。成六¶
 自在王。豈為六賊所劫奪耶。¶
 
-12賢首品
-:PROPERTIES:
-:head: 賢首品第十二
-:END:
-
+賢首品第十二
 
 疏。夫行不虛設等者。此有¶
 二來意。初對前行以成今德。後又前智首¶

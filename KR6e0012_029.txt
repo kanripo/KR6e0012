@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:37.856554
+#+DATE: 2015-09-28 22:54:42.176126
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6e0012_T_029-0218a> 
 #+PROPERTY: JUAN 29
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第二十九¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -386,11 +385,7 @@
 攝娑婆等為伴亦然。方是一佛之諦。二如¶
 此佛諦名。既主伴無盡。則密訓等他佛為¶
 主。諦名亦然。
-9光明覺品
-:PROPERTIES:
-:head: 光明覺品第九
-:END:
-
+光明覺品第九
 
 疏。前但名諦¶
 別遍等者。如名號品如來於此名悉達等。¶
