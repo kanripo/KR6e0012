@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:37.929308
+#+DATE: 2015-09-28 22:54:51.367258
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIAXING
 #+PROPERTY: LASTPB <pb:KR6e0012_T_031-0233a> 
 #+PROPERTY: JUAN 31
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第三十一¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -652,8 +651,7 @@
 知往物而不來。而謂今物而可往。往物既¶
 不來。今物何所往。何則求向物於向。於¶
 向未嘗無。責向物於今。於今未嘗有。於¶
-今未嘗有。以明物不來。於向未嘗無。故¶
-知物不去。覆而求今。今亦不往。是謂昔物¶
+今未嘗有。以明物不來。於向未嘗無。故知物不去。覆而求今。今亦不往。是謂昔物¶
 自在昔。不從今以至昔。今物自在今。不¶
 從昔以至今。故仲尼曰。回也。見新交臂非¶
 故。如此則物不相往來明矣。既無往返之¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:40.114647
+#+DATE: 2015-09-28 22:54:53.540368
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIAXING
 #+PROPERTY: LASTPB <pb:KR6e0012_T_090-0695a> 
 #+PROPERTY: JUAN 90
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第九十¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -322,8 +321,7 @@
 內。何得非是本師釋迦。故云豈非是此佛¶
 耶。五引他經成立中。二經分身已如前引。¶
 既十方中皆是釋迦分身之佛。何得彌陀阿¶
-閦佛等近而非耶。六遮其引難者。謂外引¶
-二經。一引清淨平等覺經說法藏比丘。然¶
+閦佛等近而非耶。六遮其引難者。謂外引二經。一引清淨平等覺經說法藏比丘。然¶
 大寶積第十七無量壽如來會。說名法處比¶
 丘。佛在耆闍崛山說。阿難起問白佛言。大¶
 德世尊色身諸根悉皆清淨。威光赫奕如融¶

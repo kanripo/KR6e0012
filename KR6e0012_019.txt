@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:37.408452
+#+DATE: 2015-09-28 22:54:50.972196
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIAXING
 #+PROPERTY: LASTPB <pb:KR6e0012_T_019-0143c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第十九¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -638,7 +637,7 @@
 有五帝。東方甲乙木。其色青故。東方為青¶
 帝。南方丙丁火。其色赤為赤帝。西方庚辛¶
 金。其色白為白帝。北方壬癸水。其色黑為¶
-黑帝。中央戊己土。其色黃為黃帝。若十二神。¶
+黑帝。中央戊已土。其色黃為黃帝。若十二神。¶
 即一方有三故。故成十二。大集經說十二¶
 獸。皆是大菩薩示迹為之。廣如彼說。
 

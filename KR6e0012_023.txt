@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:37.655139
+#+DATE: 2015-09-28 22:54:51.098003
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIAXING
 #+PROPERTY: LASTPB <pb:KR6e0012_T_023-0174b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 23
 ¶
 ¶
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第二十三¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
 
-2現相品
-:PROPERTIES:
-:head: 現相品第二
-:END:
-
+現相品第二
 
 疏。四分之中已明教起者。四¶
 分即舉果勸樂生信等分四。以四分科。第一¶

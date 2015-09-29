@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:37.744738
+#+DATE: 2015-09-28 22:54:51.196263
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIAXING
 #+PROPERTY: LASTPB <pb:KR6e0012_T_026-0194b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第二十六¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -529,11 +528,7 @@
 耶。今經不言。明知約融攝無差別耳。世界¶
 成就品竟。¶
 
-5華藏世界品
-:PROPERTIES:
-:head: 華藏世界品第五(盡第二會初如來名號品)
-:END:
-
+華藏世界品第五(盡第二會初如來名號品)
 
 疏。梵本具云等者¶
 梵云拘蘇磨(華也)多羅(藏也)驃訶(莊嚴也)阿楞伽(嚴具也)¶
