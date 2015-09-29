@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:37.686516
+#+DATE: 2015-09-28 22:54:46.505446
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YI
 #+PROPERTY: LASTPB <pb:KR6e0012_T_024-0181a> 
 #+PROPERTY: JUAN 24
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第二十四¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -482,11 +481,7 @@
 耶。明知。上是十方菩薩歎佛德耳。現相品¶
 竟。¶
 
-3普賢三昧品
-:PROPERTIES:
-:head: 普賢三昧品第三
-:END:
-
+普賢三昧品第三
 
 疏。二釋名。疏文有二。一¶
 正釋。二解妨。前中有三釋。第一釋普賢是¶

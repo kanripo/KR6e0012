@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:37.549169
+#+DATE: 2015-09-28 22:54:46.384164
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YI
 #+PROPERTY: LASTPB <pb:KR6e0012_T_020-0151b> 
 #+PROPERTY: JUAN 20
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第二十¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -702,7 +701,7 @@
 相二空俱非了義。何者。謂法若性空相不空¶
 故。若云相空性又不空。以性相異故。猶如¶
 畫火無有熱性。而似火相。如木中火不¶
-見其相而有其性。如角峯垂𩑶即是牛相。¶
+見其相而有其性。如角峯垂[古*頁]即是牛相。¶
 負重致遠。是其性故。性主於內。相據於外。¶
 若一空者。彼一不空。若得意者。此二相成。¶
 謂由從緣無性名為性空。故令體相無不¶
