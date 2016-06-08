@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:40.083453
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0012_T_089-0687c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 89
 ¶
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第八十九¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -77,7 +76,7 @@
 第二下疏有五。一依五字釋。二今云多下¶
 案今多釋。三如即無邊差別者會經也。四應¶
 是譯人下。會釋偏正。言字形相近者。今¶
-示二梵之形多[虱-(乏-之+虫)+ㄠ]囉[虱-(乏-之+虫)+工]。此二小近聲相濫
+示二梵之形多󱈏囉󱈐[虱-(乏-之+虫)+ㄠ][虱-(乏-之+虫)+工]。此二小近聲相濫
 <pb:KR6e0012_T_089-0688c>¶
 者同疊韻故。五若順無塵下。正以囉字會¶
 釋經文。以諸經字義第二多同故。大品云囉¶

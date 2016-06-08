@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:39.651550
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0012_T_076-0596b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 76
 ¶
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第七十六¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -299,11 +298,7 @@
 <pb:KR6e0012_T_076-0599b>¶
 知。十忍品竟。¶
 
-30阿僧祇品
-:PROPERTIES:
-:head: 阿僧祇品第三十
-:END:
-
+* 阿僧祇品第三十
 
 疏。初來意有二等者。一通¶
 以後三品對前三品。二別則此品對十忍¶
@@ -384,11 +379,7 @@
 疏。且從相顯下¶
 結釋顯深。¶
 
-31壽量品
-:PROPERTIES:
-:head: 壽量品第三十一
-:END:
-
+* 壽量品第三十一
 
 疏。來意中二。先立理二¶
 正顯。前中正顯十身壽量。且寄三身明之。¶
@@ -416,11 +407,7 @@
 疏。已隣剎海¶
 平等者。猶有數限故致隣言。剎海平等無¶
 數量故。
-32住處品
-:PROPERTIES:
-:head: 諸菩薩住處品第三十二
-:END:
-
+* 諸菩薩住處品第三十二
 
 疏。來意中¶
 三。一廣僧祇。二亦遠答下酬其初會。三昔¶

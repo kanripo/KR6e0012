@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:39.679314
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0012_T_077-0602a> ¶¶¶¶¶
 #+PROPERTY: JUAN 77
 ¶
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第七十七¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -348,11 +347,7 @@
 千西州五百南州二百五十千佛處現。廣說¶
 諸國各有佛現等。下諸天龍等發願護持。¶
 
-33佛不思議法品
-:PROPERTIES:
-:head: 佛不思議法品第三十三
-:END:
-
+* 佛不思議法品第三十三
 
 疏。初來意者文二。¶
 先正明後解妨。今初古德但有三品者。以後¶
@@ -604,11 +599,7 @@
 取入中問罪苦不能害耳。疏心善解脫由¶
 三相者。即瑜伽八十五說(四十八經)。¶
 
-34十身相海品
-:PROPERTIES:
-:head: 十身相海品第三十四
-:END:
-
+* 十身相海品第三十四
 
 疏。如來十身標人顯¶
 德者。疏文有四。一釋名。二辨類。三出體。¶

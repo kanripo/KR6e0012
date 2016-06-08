@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:54:37.549169
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:10
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0012_T_020-0151b> 
 #+PROPERTY: JUAN 20
 ¶
-
- 大方廣佛華嚴經隨疏演義鈔卷¶
+大方廣佛華嚴經隨疏演義鈔卷¶
 第二十¶
 ¶
 唐清涼山大華嚴寺沙門澄觀述¶
@@ -602,7 +601,7 @@
 人有子。亦有別異過。異則如來墮常等故。¶
 然後四句皆成異過。初即是一。總合但是一¶
 異過耳。故觀法品破我。但云。若我是五陰。¶
-我即為生滅。若我異。五陰即非五陰相。今¶
+我即為生滅。若我異五陰。即非五陰相。今¶
 細推尋故有五求皆不可得。上之五求但能¶
 破有。今四句並非故。言謂佛有耶常見為¶
 惑。謂佛無耶邪見深厚。此且雙破有無。¶
