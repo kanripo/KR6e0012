@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 13:10
+#+DATE: 2016-06-08 13:11
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6e0012_T_074-0583b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 74
 ¶
@@ -89,7 +89,7 @@
 交徹存亡兩全。三云第一義唯心非一非異
 <pb:KR6e0012_T_074-0584b>者。正出具分唯心之理。上第一釋。雖有¶
 唯心之義尚通生滅唯心。第二義雖兩亡¶
-不羈。而未言心境相攝。今明具分唯識。故¶
+不[襾/(革*馬)]。而未言心境相攝。今明具分唯識。故¶
 云第一義唯心。同第一義故非異。不壞能¶
 所故非一。非一故有能所緣他義成矣。非¶
 異故能所平等。唯心義成矣。云正緣他時¶

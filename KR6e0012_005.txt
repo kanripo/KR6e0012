@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 13:10
+#+DATE: 2016-06-08 13:11
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6e0012_T_005-0032c> ¶¶¶
 #+PROPERTY: JUAN 5
 ¶
@@ -474,7 +474,7 @@
 
 疏。亦名波羅提木叉等者。第¶
 三名也。言揀異定道者。非是定共道共二¶
-戒。是遠離羈縛業緣。名為解脫。疏。亦翻為¶
+戒。是遠離[襾/(革*馬)]縛業緣。名為解脫。疏。亦翻為¶
 隨順解脫者。即第三名中別義也。故遺教經¶
 云。戒是正順解脫之本。故名波羅提木叉。又¶
 相續解脫經云。五分法身。名為解脫。梵云。¶

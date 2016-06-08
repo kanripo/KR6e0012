@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 13:10
+#+DATE: 2016-06-08 13:11
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6e0012_T_085-0662a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 85
 ¶
@@ -278,7 +278,7 @@
 鈴。第三偈三義。一梵行嚴潔如淨茵蓐。二三¶
 昧適神如侍婇女。三法音警物如擊鼓聲。¶
 第四偈三義。一四攝益物無盡如藏。二功德¶
-圓淨如寶莊嚴三牛有羈鞅離過引車。人¶
+圓淨如寶莊嚴三牛有[襾/(革*馬)]鞅離過引車。人¶
 有慚愧拒惡崇善。
 
 疏。次三求十度自行乘¶

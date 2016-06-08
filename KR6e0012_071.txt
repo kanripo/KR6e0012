@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 13:10
+#+DATE: 2016-06-08 13:11
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6e0012_T_071-0564c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 71
 ¶
@@ -111,7 +111,7 @@
 下。明能治一一惑等。皆到彼岸窮理盡¶
 性。即是八萬四千度門。若於惑等寂妄不¶
 動。即是八萬四千三昧。若於惑等一一無¶
-羈。即八萬四千解脫。第四根稠林。根義已¶
+[襾/(革*馬)]。即八萬四千解脫。第四根稠林。根義已¶
 見第九迴向。
 
 疏。別中十相為九差別者總¶

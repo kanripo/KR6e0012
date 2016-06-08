@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 13:10
+#+DATE: 2016-06-08 13:11
 #+TITLE: 大方廣佛華嚴經隨疏演義鈔
 #+PROPERTY: CBETA_ID T36n1736
 #+PROPERTY: ID KR6e0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1736
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6e0012_T_034-0256b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
@@ -79,7 +79,7 @@
 譽矯現有德詭詐為性。能障不誑。邪命為¶
 業。謂矯誑者心懷異謀。多現不實邪命事¶
 故。諂謂為網[曰/月]他故。矯設異儀。險曲為¶
-性。能障不諂教誨為業。謂諂曲者謂網¶
+性。能障不諂教誨為業。謂諂曲者或網¶
 [曰/月]他。曲順時宜矯設方便為取他意。或¶
 藏己失。不任師友正教誨故。然諂誑並¶
 以貪癡一分為體。慳唯貪一分。嫉恨忿三
